@@ -38,7 +38,7 @@ export default function DashboardIndex() {
                     </h2>
 
                     <p className="text-5xl font-bold text-[#852e4e] mt-4">
-                        10
+                        2
                     </p>
 
                 </div>
@@ -51,7 +51,7 @@ export default function DashboardIndex() {
                     </h2>
 
                     <p className="text-5xl font-bold text-[#852e4e] mt-4">
-                        8
+                        2
                     </p>
 
                 </div>

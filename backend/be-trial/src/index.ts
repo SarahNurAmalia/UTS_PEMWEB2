@@ -9,7 +9,12 @@ const app = express();
 
 
 // MIDDLEWARE
-app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:5173",                    // untuk dev lokal
+    "https://uts-pemweb2-frontend.vercel.app"          // ← URL Vercel 
+  ]
+}));
 
 app.use(express.json());
 

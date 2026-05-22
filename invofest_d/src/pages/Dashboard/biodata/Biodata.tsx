@@ -23,7 +23,7 @@ export default function Biodata() {
                 <div className="space-y-6">
 
                     <div>
-                        <h1 className="text-gray-500 text-lg">
+                        <h1 className="text-[#852e4e]">
                             Nama
                         </h1>
 
@@ -33,41 +33,41 @@ export default function Biodata() {
                     </div>
 
                     <div>
-                        <h1 className="text-gray-500 text-lg">
+                        <h1 className="text-[#852e4e]">
                             NIM
                         </h1>
 
-                        <p className="text-2xl font-medium">
+                        <p className="text-2xl font-medium text-[#852e4e]">
                             24090129
                         </p>
                     </div>
 
                     <div>
-                        <h1 className="text-gray-500 text-lg">
+                        <h1 className="text-[#852e4e]">
                             Program Studi
                         </h1>
 
-                        <p className="text-2xl font-medium">
+                        <p className="text-2xl font-medium text-[#852e4e]">
                             Teknik Informatika
                         </p>
                     </div>
 
                     <div>
-                        <h1 className="text-gray-500 text-lg">
+                        <h1 className="text-[#852e4e]">
                             Kelas
                         </h1>
 
-                        <p className="text-2xl font-medium">
+                        <p className="text-2xl font-medium text-[#852e4e]">
                             TI - 4D
                         </p>
                     </div>
 
                     <div>
-                        <h1 className="text-gray-500 text-lg">
+                        <h1 className="text-[#852e4e]">
                             Mata Kuliah
                         </h1>
 
-                        <p className="text-2xl font-medium">
+                        <p className="text-2xl font-medium text-[#852e4e]">
                             Pemrograman Web 2
                         </p>
                     </div>
